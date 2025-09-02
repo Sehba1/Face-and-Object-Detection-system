@@ -1,0 +1,4 @@
+opencv-python
+tk
+matplotlib
+face-recognition
